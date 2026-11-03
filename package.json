@@ -1,0 +1,11 @@
+{
+  "name": "cloud-ai-vendor-kit",
+  "version": "0.1.0",
+  "description": "The unglamorous plumbing every AI app needs on Chinese cloud AI APIs: Tencent Cloud TC3 request signing, async task polling with backoff, daily quota guards, and a mock adapter so you can build before you have API keys.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "keywords": ["tencent-cloud", "tc3", "signature", "face-fusion", "ai-api", "adapter", "wechat-miniprogram", "task-polling", "quota"],
+  "license": "MIT"
+}
